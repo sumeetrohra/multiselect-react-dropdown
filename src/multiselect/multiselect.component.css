@@ -20,7 +20,7 @@
 }
 .chip {
   padding: 4px 10px;
-  background: #0096fb;
+  background: #2f5f6d;
   margin-right: 5px;
   margin-bottom: 5px;
   border-radius: 10px;
@@ -66,7 +66,7 @@
   padding: 10px 10px;
 }
 .multiSelectContainer li:hover {
-  background: #0096fb;
+  background: #2f5f6d;
   color: #fff;
   cursor: pointer;
 }
@@ -78,7 +78,7 @@
   opacity: 0.5;
 }
 .highlightOption {
-  background: #0096fb;
+  background: #2f5f6d;
   color: #ffffff;
 }
 .displayBlock {
@@ -120,6 +120,6 @@ li.groupChildEle {
   top: 50%;
   transform: translateY(-50%);
 }
-.icon_down_dir:before { 
-  content: '\e803'; 
+.icon_down_dir:before {
+  content: "\e803";
 }
